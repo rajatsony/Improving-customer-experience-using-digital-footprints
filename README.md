@@ -1,0 +1,2 @@
+# Improving-customer-experience-using-digital-footprints
+The aim of this project to improve customer experience using digital footprints. For improving customer experience the idea we came across is categorizing our customers in the 3 categories: Completely digital, Partially digital and Non- digital customers. The idea behind categorizing customers is to serving customer with right services like for completely digital customers will be approached with digital banking products/services and non-digital customers will be approached with traditional banking products/services.
